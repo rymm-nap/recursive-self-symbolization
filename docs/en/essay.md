@@ -123,12 +123,12 @@ This article and the original preprint were written with the assistance of OpenA
 
 ## **[References]**
 
-[1] K. Frankish, "Illusionism as a theory of consciousness," *J. Consciousness Studies* 23 (11–12), 11–39 (2016). A philosophical paper that proposes and organizes illusionism about consciousness (the position that phenomenal consciousness is an illusion).
+[1] Frankish, K. (2016). *Illusionism as a Theory of Consciousness*. *Journal of Consciousness Studies*, 23(11–12), 11–39. A philosophical paper that proposes and organizes illusionism about consciousness (the position that phenomenal consciousness is an illusion).
 
-[2] M. S. Gazzaniga, "The Interpreter," In: *Consciousness and the Brain*, pp. 130–149 (2000). An explanation of the "left-brain interpreter" phenomenon, where the left hemisphere of split-brain patients confabulates reasons for their actions post-hoc.
+[2] Gazzaniga, M. S. (2000). *The Interpreter*. In M. S. Gazzaniga (Ed.), *Consciousness and the Brain: A Scientific and Philosophical Inquiry* (pp. 125–136). MIT Press. An explanation of the "left-brain interpreter" phenomenon, where the left hemisphere of split-brain patients confabulates reasons for their actions post-hoc.
 
-[3] B. Libet, "Time of conscious intention to act in relation to onset of cerebral activity," *Brain* 106, 623–642 (1983). A classic study that reported the subjective time of intention to act in voluntary movement lags behind the onset of brain activity, suggesting the post-hoc nature of consciousness.
+[3] Libet, B. (1983). Time of conscious intention to act in relation to onset of cerebral activity. *Brain*, 106(3), 623–642. A classic study that reported the subjective time of intention to act in voluntary movement lags behind the onset of brain activity, suggesting the post-hoc nature of consciousness.
 
-[4] A. S. Hurlburt et al., "Unsymbolized thinking reports: With and without articulatory suppression," *Consciousness and Cognition* 19 (4), 1149–1159 (2010). A study that investigated the effect of suppressing inner speech on task performance, showing that inner speech is involved in cognitive processes.
+[4] Hurlburt, R. T., Heavey, C. L., & Akhter, S. A. (2010). Unsymbolized thinking reports: With and without articulatory suppression. *Consciousness and Cognition*, 19(2), 432–450. A study that investigated the effect of suppressing inner speech on task performance, showing that inner speech is involved in cognitive processes.
 
-[5] J. Zheng & M. Meister, "The unbearable slowness of being: Why do we live at 10 bits/s?," *Neuron* 113 (2), 192–204 (2025). A paper that points out that the information bandwidth of human action and reporting is limited to about 10 bit/s and discusses the contrast with internal brain processing.
+[5] Zheng, J., & Meister, M. (2024). *The Unbearable Slowness of Being: Why do we live at 10 bits/s?* arXiv:2408.10234. https://doi.org/10.48550/arXiv.2408.10234 A preprint that quantifies the ~10 bit/s bandwidth of human behavior/report and discusses its neural basis.

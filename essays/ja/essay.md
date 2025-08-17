@@ -104,12 +104,12 @@
 
 ## **【参考文献】**
 
-\[1\] K. Frankish, "Illusionism as a theory of consciousness," *J. Consciousness Studies* 23 (11–12), 11–39 (2016). 意識のイリュージョン説（現象的意識は錯覚であるという立場）を提唱・整理した哲学論文。
+\[1\] *Illusionism as a Theory of Consciousness*. *Journal of Consciousness Studies*, 23(11–12), 11–39 (2016). 意識のイリュージョン説（現象的意識は錯覚であるという立場）を提唱・整理した哲学論文。
 
-\[2\] M. S. Gazzaniga, "The Interpreter," In: *Consciousness and the Brain*, pp. 130–149 (2000). 分離脳患者の左半球が行動の理由を後付けで捏造する「左脳通訳者」現象についての解説。
+\[2\] *The Interpreter*. In M. S. Gazzaniga (Ed.), *Consciousness and the Brain: A Scientific and Philosophical Inquiry* (pp. 125–136). MIT Press (2000). 分離脳患者の左半球が行動の理由を後付けで捏造する「左脳通訳者」現象についての解説。
 
-\[3\] B. Libet, "Time of conscious intention to act in relation to onset of cerebral activity," *Brain* 106, 623–642 (1983). 自発運動において意図の主観時刻が脳活動に遅れることを報告し、意識の事後性を示唆した古典的研究。
+\[3\] *Brain*, 106(3), 623–642 (1983).
 
-\[4\] A. S. Hurlburt et al., "Unsymbolized thinking reports: With and without articulatory suppression," *Consciousness and Cognition* 19 (4), 1149–1159 (2010). 内言の抑制が課題成績に与える影響を調べ、内言が認知過程に関与することを示した研究。
+\[4\] *Consciousness and Cognition*, 19(2), 432–450 (2010). 内言の抑制が課題成績に与える影響を調べ、内言が認知過程に関与することを示した研究。
 
-\[5\] J. Zheng & M. Meister, "The unbearable slowness of being: Why do we live at 10 bits/s?," *Neuron* 113 (2), 192–204 (2025). 人間の行動・報告の情報帯域が約10 bit/sに留まることを指摘し、脳内処理との対比を論じた論文。
+\[5\] arXiv:2408.10234 (2024). https://doi.org/10.48550/arXiv.2408.10234 人間の行動・報告帯域が約10 bit/sに制限される理由と神経基盤の謎を論じたプレプリント。
