@@ -3,7 +3,7 @@
 
 **Author:** ryo  
 **Affiliation:** Independent Researcher (Japan)  
-**Date:** 2025-08-17  
+**Date:** 2025-08-17
 **Keywords:** 意識, 再帰的自己記号付け, 内言, 記号化, グローバル・ニューラル・ワークスペース, PRP, 10 bit/s, 表出バイアス, 世界モデル, 調和/美, Potemkin Understanding, 過程監督
 
 ---
