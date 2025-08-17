@@ -10,8 +10,8 @@ From Output-Bandwidth Bias to a Harmony Principle.*
 ## Contents / コンテンツ
 |   | Title | Links | Description |
 |---|-------|-------|-------------|
-| 📄 | **Preprint** | [EN](./en/preprint.md) / [JA](./ja/preprint.md) | 詳細な理論・図表付き |
-| ✍️ | **Essay** | [EN](./en/essay.md) / [JA](./ja/essay.md) | 例え話で噛み砕いた一般向け解説 |
+| 📄 | **Preprint** | EN / JA | 詳細な理論・図表付き |
+| ✍️ | **Essay**    | EN / JA | 例え話で噛み砕いた一般向け解説 |
 
 ---
 
