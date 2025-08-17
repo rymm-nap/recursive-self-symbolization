@@ -1,5 +1,13 @@
 # **Is the "Thinking Self" an Illusion? The Mechanism of Consciousness Born from a Brain Loop**
 
+> **Author:** ryo  
+> **Affiliation:** Independent Researcher (Japan)  
+> **Date:** 2025-08-17  
+> **Keywords:** Consciousness, Recursive Self-Symbolization, Inner Speech, Harmony, 10 bit/s, Output Bias, Subject-less Thought  
+> **X (Twitter):** [@rymm_nap](https://twitter.com/rymm_nap)  
+> **Repository:** <https://github.com/rymm-nap/recursive-self-symbolization>  
+> **AI-assistance disclosure:** Drafted with suggestions from GPT-5; final decisions and responsibility rest with the author.
+
 ## **Introduction**
 
 The "voice in your head." Whether as a monologue or an internal dialogue, we live our days with this inner voice. But what exactly is it? Who is speaking, and who is listening? When you stop to think about it, it's a curious question. I myself have long been fascinated by this query. I am a layman with a background in law, not a specialized researcher in neuroscience or AI. However, as a human being, I have continued to grapple with this fundamental question and have finally arrived at a hypothesis. This is the bold idea that human consciousness and thought are merely processes that retroactively add the story of a "self," and that a substantive "subject of thought" does not exist.
