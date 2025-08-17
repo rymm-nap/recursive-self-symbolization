@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "Please cite this work if you use it."
+title: "Recursive Self-Symbolization and Subjectless Thought (Preprint, EN/JA)"
+type: article
+authors:
+  - name: ryo
+abstract: >
+  A preprint (EN/JA) proposing a three-layer model of thought—availability,
+  operations, and symbolization (reinjection/expression)—and discussing
+  subjectless thought, output bottlenecks (~10 bits/s), and a harmony-as-beauty
+  hypothesis. 
+keywords:
+  - consciousness
+  - recursive self-symbolization
+  - subjectless thought
+  - harmony
+  - LLM
+license: CC-BY-4.0
+repository-code: "https://github.com/rymm-nap/recursive-self-symbolization-preprint"
+version: "v1.0.0"
+doi: "10.0000/placeholder" # DOI 近日取得予定
+date-released: "2025-08-17"
+preferred-citation:
+  type: article
+  title: "Recursive Self-Symbolization and Subjectless Thought (Preprint)"
+  authors:
+    - name: ryo
+  year: 2025

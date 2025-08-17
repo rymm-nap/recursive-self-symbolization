@@ -1,0 +1,4 @@
+# 公開ページ（docs/）は必ず @rymm-nap のレビューが必要
+/docs/**            @rymm-nap
+/projects/**        @rymm-nap
+/README.md          @rymm-nap
