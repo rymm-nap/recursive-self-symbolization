@@ -1,10 +1,11 @@
 # **『考えている自分』は幻想か？──脳内ループが生む意識の仕組み**
 
-> **著者:** ryo（独立研究者、日本）  
-> **日付:** 2025-08-17  
-> **キーワード:** 意識, 再帰的自己記号付け, 内言, 調和, 10 bit/s, 表出バイアス, 主体なき思考  
+> **Author:** ryo  
+> **Affiliation:** Independent Researcher (Japan)  
+> **Date:** 2025-08-17  
+> **Keywords:** 意識, 再帰的自己記号付け, 内言, 調和, 10 bit/s, 表出バイアス, 主体なき思考  
 > **X (Twitter):** [@rymm_nap](https://twitter.com/rymm_nap)  
-> **リポジトリ:** <https://github.com/rymm-nap/recursive-self-symbolization>  
+> **Repository:** <https://github.com/rymm-nap/recursive-self-symbolization>  
 > **AI 利用の開示:** GPT-5 の提案を参考に執筆。最終判断と責任は著者にあります。
 
 ## **はじめに**
