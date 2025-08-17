@@ -10,7 +10,7 @@ From Output-Bandwidth Bias to a Harmony Principle.*
 ## Contents / コンテンツ
 - 📄 **Preprint**  
   - [English](./en/preprint.md) / [日本語](./ja/preprint.md)  
-  - 詳細な理論と図表を掲載（CC BY 4.0）
+  - 理論の詳細をを掲載（CC BY 4.0）
 
 - ✍️ **Essay**  
   - [English](./en/essay.md) / [日本語](./ja/essay.md)  
@@ -20,7 +20,13 @@ From Output-Bandwidth Bias to a Harmony Principle.*
 
 ## What’s this about
 意識と思考を **可用化 → 操作 → 記号化（再注入／表出）** の三層で整理し、  
-**主体なき思考**・**表出バイアス（10 bit/s 問題）**・**調和＝美** 仮説を提案します。
+**主体なき思考**・**表出バイアス（10 bit/s 問題）**・**調和＝美** 仮説を提案します。  
+*We structure consciousness and thinking into three layers—  
+availability → operations → symbolization (reinjection / expression)—  
+and propose three related ideas:  
+thought without a subject,  
+the output-bandwidth bias (the 10 bit/s problem),  
+and the harmony-as-beauty hypothesis.*
 
 ---
 
