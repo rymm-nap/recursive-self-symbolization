@@ -16,7 +16,7 @@ keywords:
   - harmony
   - LLM
 license: CC-BY-4.0
-repository-code: "https://github.com/rymm-nap/recursive-self-symbolization-preprint"
+repository-code: "https://github.com/rymm-nap/recursive-self-symbolization"
 version: "v1.0.0"
 doi: "10.0000/placeholder" # DOI 近日取得予定
 date-released: "2025-08-17"
